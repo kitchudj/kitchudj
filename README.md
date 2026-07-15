@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kitchudj&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <!-- ===================== ANIMATED DIVIDER ===================== -->
