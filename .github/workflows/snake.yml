@@ -30,9 +30,9 @@ jobs:
     # Generates the snake  
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: mishmanners
-          outputs:
-            dist/github-snake.svg
+          github_user_name: kitchudj
+          outputs: |
+            dist/github-snake.svg?palette=github-dark&color_snake=%23FF2E2E&color_dots=%230A0A0A,%238B0000,%23C10000,%23FF2E2E,%23FF6B6B
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           # gif_out_path: dist/github-contribution-grid-snake.gif
           # svg_out_path: dist/github-contribution-grid-snake.svg
