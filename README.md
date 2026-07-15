@@ -7,7 +7,7 @@
 
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F5AF0,100:FF2E63&height=220&section=header&text=KRISHNANUNNI%20J&fontColor=ffffff&fontSize=58&fontAlignY=34&desc=%3C%20DATA%20ANALYST%20%2F%2F%20GEARHEAD%20%2F%2F%20GAMER%20%3E&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F5AF0,100:FF2E63&height=220&section=header&text=KRISHNANUNNI%20J&fontColor=ffffff&fontSize=58&fontAlignY=34&desc=DATA%20ANALYST%20%E2%80%A2%20GEARHEAD%20%E2%80%A2%20GAMER&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -39,6 +39,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF9C&center=true&vCenter=true&width=760&height=60&lines=%24+ssh+krishnanunni%40intangles-lab;%24+sudo+access+--profile+--verbose;%3E+decrypting+identity...+%5BOK%5D;%3E+access+granted_+%E2%9C%94" alt="terminal login" />
 </p>
 
+<table width="100%">
+<tr><td>
+
+`🔴 🟡 🟢`  &nbsp;&nbsp; **krishnanunni@intangles** — `python3 ~/me.py` &nbsp;&nbsp; `— zsh — 80×24`
+
 ```python
 >>> from krishnanunni import Me
 >>> me = Me()
@@ -69,6 +74,9 @@
 >>> me.status
 'ONLINE — caffeine levels nominal ☕'
 ```
+
+</td></tr>
+</table>
 
 <div align="center">
 
@@ -462,6 +470,6 @@ I just like <b>optimizing things</b> — cars, code, K/D ratios, or a whole GTA 
 </p>
 
 <!-- ============================ FOOTER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,50:7F5AF0,100:00F7FF&height=140&section=footer&text=%3C%2F%20always%20tuning%20something%20%3E&fontColor=ffffff&fontSize=22&fontAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,50:7F5AF0,100:00F7FF&height=140&section=footer&text=always%20tuning%20something&fontColor=ffffff&fontSize=24&fontAlignY=70" width="100%"/>
 
 <p align="center"><i>⭐ From engines to endpoints — cars, code, or entire cities: always tuning something.</i></p>
