@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/STATUS-ONLINE-FF2E2E?style=for-the-badge&labelColor=0A0A0A" alt="Status" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
 <!-- ============================ BOOT ============================ -->
 ## `> boot: initializing profile...`
 
