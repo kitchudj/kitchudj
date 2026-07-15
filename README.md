@@ -165,8 +165,8 @@ assert me.caffeine > 0, "restart required ☕"
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kitchudj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2E63" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitchudj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kitchudj&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2E63" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kitchudj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
 </p>
 
 <p align="center">
@@ -177,9 +177,6 @@ assert me.caffeine > 0, "restart required ☕"
   <img src="https://github-profile-trophy.vercel.app/?username=kitchudj&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </p>
 
-> Replace `kitchudj` everywhere above with your GitHub handle to activate the live cards.
-
-<br/>
 
 ## 🎮 Off the Clock
 
