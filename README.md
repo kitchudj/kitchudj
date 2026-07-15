@@ -21,47 +21,35 @@
 <!-- ===================== ANIMATED DIVIDER ===================== -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
-## 🧭 About Me
+## 🧭 `> initializing profile...`
 
-```python
-from life import Engineer, Analyst, Gamer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=800&color=00FF9C&center=true&vCenter=true&width=780&height=280&lines=%24+whoami;%3E+krishnanunni_j+%40+intangles-lab+%5BRNA%2FAnalytics%5D;;%24+cat+.identity;%3E+ex-automobile+engineer+%E2%86%92+reverse-engineered+into+data;%3E+founder+%26+owner+%40+mangalashery_rp+(fivem+city);;%24+ls+~%2Fstack;%3E+python%2C+r%2C+sql%2C+mlops%2C+lua;;%24+cat+.loves;%3E+fleet_data%2C+fast_cars%2C+clean_code%2C+leaderboards;;%24+run+solve.py+--no-brute-force;%3E+hypothesize()..+model()..+benchmark()..+shipped+%F0%9F%9A%80;%3E+O(n+log+n)%2C+never+O(n%C2%B2)+on+my+watch;;%24+status;%3E+ONLINE+%E2%80%94+caffeine+levels+nominal+%E2%98%95;%3E+access+granted_" alt="terminal boot sequence" />
+</p>
 
-
-class Krishnanunni(Engineer, Analyst, Gamer):
-    """Ex-automobile engineer who reverse-engineered his way into data."""
-
-    ROLE      = "Data Analyst @ Intangles Lab · RNA Analytics"
-    ALT_ROLE  = "Founder & Owner @ Mangalashery RP (FiveM city)"
-    STACK     = ("Python", "R", "SQL", "MLOps", "Lua")
-    LOVES     = ("Fleet Data", "Fast Cars", "Clean Code", "Leaderboards")
-
-    def solve(self, problem):
-        # brute force is for people who don't drift
-        while not problem.solved:
-            self.hypothesize()
-            self.model()          # O(n log n), never O(n²) on my watch
-            self.benchmark()      # if it's not measured, it's not real
-        return "shipped 🚀"
-
-    def debug(self, bug):
-        return "fixed it. probably broke something else. fixing that too."
-
-
-me = Krishnanunni()
-assert me.caffeine > 0, "restart required ☕"
-```
+<table align="center">
+<tr>
+<td>🔭</td><td><b>Currently building</b></td><td>AI-powered fleet mgmt · DTC metadata pipelines · predictive diagnostics at scale</td>
+</tr>
+<tr>
+<td>🌱</td><td><b>Leveling up</b></td><td>deep learning for real-time fleet monitoring</td>
+</tr>
+<tr>
+<td>🎮</td><td><b>Off the clock</b></td><td>running a full-blown FiveM roleplay city + racing sims</td>
+</tr>
+<tr>
+<td>🚗</td><td><b>Origin story</b></td><td>fell into data through engines, not the other way around</td>
+</tr>
+<tr>
+<td>⚡</td><td><b>Fun fact</b></td><td>helped build an award-winning EV before I ever touched a notebook</td>
+</tr>
+</table>
 
 <div align="center">
 
 `⚡ Optimizing cars, code, and entire GTA cities since forever ⚡`
 
 </div>
-
-- 🔭 **Currently building:** AI-powered fleet management, DTC metadata pipelines & predictive diagnostics that scale
-- 🌱 **Currently leveling up:** deep learning for real-time fleet monitoring
-- 🎮 **Off the clock:** running a full-blown FiveM roleplay city + racing sims
-- 🚗 Certified automobile nerd — I fell into data through engines, not the other way around
-- ⚡ **Fun fact:** I once helped build an award-winning EV before I ever touched a notebook
 
 <br/>
 
