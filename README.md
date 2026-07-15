@@ -24,20 +24,38 @@
 ## 🧭 About Me
 
 ```python
-class Krishnanunni:
-    def __init__(self):
-        self.role       = "Data Analyst @ Intangles Lab (RNA - Analytics Team)"
-        self.background  = "BE Automobile Engineering"
-        self.stack       = ["Python", "R", "SQL", "MLOps"]
-        self.obsessions  = ["Fleet & Vehicle Data", "Gaming", "Automobiles", "Clean Code"]
-        self.side_quest  = "Founder & Owner @ Mangalashery RP (FiveM roleplay)"
-        self.mission     = "Turn messy fleet & sensor data into insights that drive decisions"
+from life import Engineer, Analyst, Gamer
 
-    def debug(self, problem):
+
+class Krishnanunni(Engineer, Analyst, Gamer):
+    """Ex-automobile engineer who reverse-engineered his way into data."""
+
+    ROLE      = "Data Analyst @ Intangles Lab · RNA Analytics"
+    ALT_ROLE  = "Founder & Owner @ Mangalashery RP (FiveM city)"
+    STACK     = ("Python", "R", "SQL", "MLOps", "Lua")
+    LOVES     = ("Fleet Data", "Fast Cars", "Clean Code", "Leaderboards")
+
+    def solve(self, problem):
+        # brute force is for people who don't drift
+        while not problem.solved:
+            self.hypothesize()
+            self.model()          # O(n log n), never O(n²) on my watch
+            self.benchmark()      # if it's not measured, it's not real
+        return "shipped 🚀"
+
+    def debug(self, bug):
         return "fixed it. probably broke something else. fixing that too."
 
+
 me = Krishnanunni()
+assert me.caffeine > 0, "restart required ☕"
 ```
+
+<div align="center">
+
+`⚡ Optimizing cars, code, and entire GTA cities since forever ⚡`
+
+</div>
 
 - 🔭 **Currently building:** AI-powered fleet management, DTC metadata pipelines & predictive diagnostics that scale
 - 🌱 **Currently leveling up:** deep learning for real-time fleet monitoring
@@ -147,19 +165,19 @@ me = Krishnanunni()
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2E63" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kitchudj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2E63" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitchudj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF2E63&currStreakLabel=00F7FF" />
+  <img src="https://streak-stats.demolab.com/?user=kitchudj&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF2E63&currStreakLabel=00F7FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kitchudj&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </p>
 
-> Replace `YOUR_GITHUB_USERNAME` everywhere above with your GitHub handle to activate the live cards.
+> Replace `kitchudj` everywhere above with your GitHub handle to activate the live cards.
 
 <br/>
 
