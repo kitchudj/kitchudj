@@ -1,28 +1,37 @@
-<h1 align="center">Hey, I'm Krishnanunni 👋</h1>
-<h3 align="center">Data Analyst by profession • Gearhead by obsession • Gamer at heart</h3>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F5AF0,100:FF2E63&height=200&section=header&text=Krishnanunni%20J&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Data%20Analyst%20%E2%80%A2%20Gearhead%20%E2%80%A2%20Gamer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions;Python+%7C+R+%7C+SQL+%7C+MLOps;Ex-Automobile+Engineer+%E2%86%92+Data+Analyst;Debugging+code+like+I+debug+engines;Currently+grinding%3A+leaderboards+%26+datasets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%8F%8E%EF%B8%8F+Turning+raw+data+into+real+decisions;%F0%9F%90%8D+Python+%7C+R+%7C+SQL+%7C+MLOps;%E2%9A%99%EF%B8%8F+Ex-Automobile+Engineer+%E2%86%92+Data+Analyst;%F0%9F%8E%AE+Debugging+code+like+I+debug+engines;%F0%9F%8F%86+Currently+grinding%3A+leaderboards+%26+datasets" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishnan-unni-j/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kitchudj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.gg/3xEaEZArbP"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-orange?style=for-the-badge">
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-### 🧭 About Me
+<!-- ===================== ANIMATED DIVIDER ===================== -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
+## 🧭 About Me
 
 ```python
 class Krishnanunni:
     def __init__(self):
-        self.role = "Data Analyst @ Intangles Lab (RNA - Analytics Team)"
-        self.background = "BE Automobile Engineering"
-        self.stack = ["Python", "R", "SQL", "MLOps"]
-        self.obsessions = ["Fleet & Vehicle Data", "Gaming", "Automobiles", "Clean Code"]
-        self.mission = "Turn messy fleet & sensor data into insights that actually drive decisions"
+        self.role       = "Data Analyst @ Intangles Lab (RNA - Analytics Team)"
+        self.background  = "BE Automobile Engineering"
+        self.stack       = ["Python", "R", "SQL", "MLOps"]
+        self.obsessions  = ["Fleet & Vehicle Data", "Gaming", "Automobiles", "Clean Code"]
+        self.side_quest  = "Founder & Owner @ Mangalashery RP (FiveM roleplay)"
+        self.mission     = "Turn messy fleet & sensor data into insights that drive decisions"
 
     def debug(self, problem):
         return "fixed it. probably broke something else. fixing that too."
@@ -30,61 +39,102 @@ class Krishnanunni:
 me = Krishnanunni()
 ```
 
-I'm currently working on **AI-powered fleet management & predictive maintenance** — think of it as diagnosing a car's health through data instead of a stethoscope. I automate the boring stuff, model the hard stuff, and validate the risky stuff (firmware included).
-
-- 🔭 Currently building: DTC metadata pipelines & predictive diagnostics that scale
-- 🌱 Currently leveling up: deep learning for real-time fleet monitoring
-- 🎮 When not staring at dataframes: I'm staring at a scoreboard
+- 🔭 **Currently building:** AI-powered fleet management, DTC metadata pipelines & predictive diagnostics that scale
+- 🌱 **Currently leveling up:** deep learning for real-time fleet monitoring
+- 🎮 **Off the clock:** running a full-blown FiveM roleplay city + racing sims
 - 🚗 Certified automobile nerd — I fell into data through engines, not the other way around
-- ⚡ Fun fact: I once helped build an award-winning EV before I ever touched a notebook.pandas
+- ⚡ **Fun fact:** I once helped build an award-winning EV before I ever touched a notebook
 
----
+<br/>
 
-### 🛠️ Tech Arsenal
+<!-- ===================== WORK: INTANGLES ===================== -->
+## 💼 Where I Work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,docker,vscode,pycharm,postman,jupyter" />
+<table>
+<tr>
+<td width="30%" align="center">
+  <img src="assests/logo.png" width="230" alt="Intangles"/>
+</td>
+<td width="70%">
+
+### Data Analyst — Intangles Lab Pvt. Ltd.
+**RNA · Analytics Team · Pune, Maharashtra** &nbsp;`May 2024 – Present`
+
+> *A Digital Twin company — AI-powered fleet management & predictive maintenance.*
+
+- 🐍 Developed & automated **90%+** of RNA's Python scripts for large-scale data processing, reporting & predictive diagnostics
+- 🧩 Owned the complete **DTC metadata pipeline** — enrichment, subsystem mapping & manufacturer-specific standardization
+- 📊 Model fitting for **air intake diagnostics**; benchmarked accuracy across battery voltage, fuel level, coolant temp, fuel trim & fuel rail pressure
+- 🤝 Shipped AI-driven solutions, firmware validation & real-time fleet monitoring with Python, R, SQL & MLOps
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== SIDE PROJECT: MRP ===================== -->
+## 🎮 My World — Mangalashery RP
+
+<table>
+<tr>
+<td width="70%">
+
+### 🚔 MRP — Mangalashery RP
+**Founder & Owner · FiveM Roleplay City**
+
+> A living, breathing GTA V roleplay community — cops, gangs, businesses, cinematic chases and a whole economy that never sleeps.
+
+<p>
+  <a href="https://mrpdev.mrprp.in/"><img src="https://img.shields.io/badge/MRP%20Dev%20Portal-FF2E63?style=for-the-badge&logo=rockstargames&logoColor=white"></a>
+  <a href="https://discord.gg/3xEaEZArbP"><img src="https://img.shields.io/badge/Join%20the%20City-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-**Programming:** ![Python](https://img.shields.io/badge/-Python%20(Advanced)-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- 🌆 Building custom **FiveM / GTA V** scripts, jobs & economy systems
+- 🕹️ Managing a live gaming community & server infrastructure
+- 🎬 Because optimizing cars, code **and** entire cities is the dream
 
-**Data Science & ML:** Predictive Modeling · Data Cleaning & Validation · Algorithm Accuracy Benchmarking · Big Data Handling · Supervised/Unsupervised Learning · Deep Learning · AI-based Maintenance · MLOps
+</td>
+<td width="30%" align="center">
+  <img src="assests/server-logo.png" width="150" alt="Mangalashery RP"/>
+  <br/>
+  <a href="https://discord.com/users/530981225033105419"><img src="https://img.shields.io/badge/Discord%20ID-530981225033105419-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
+</td>
+</tr>
+</table>
 
-**Automotive Domain:** DTC Diagnostics · Telematics · Firmware Validation · Fleet Systems · Vehicle Specs
+<br/>
 
-**Visualization:** ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?style=flat-square) ![Plotly](https://img.shields.io/badge/-Plotly-3f4f75?style=flat-square&logo=plotly&logoColor=white)
+## 🛠️ Tech Arsenal
 
-**Tools:** ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel%20(Advanced)-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,docker,vscode,pycharm,postman,jupyter,lua&perline=10" />
+</p>
 
----
+**Programming** &nbsp; ![Python](https://img.shields.io/badge/-Python%20(Advanced)-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua%20(FiveM)-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-### 💼 Experience
+**Data Science & ML** &nbsp; Predictive Modeling · Data Cleaning & Validation · Algorithm Benchmarking · Big Data · Supervised/Unsupervised · Deep Learning · AI Maintenance · MLOps
 
-**Data Analyst — Intangles Lab Pvt. Ltd.** (RNA - Analytics Team) · Pune, Maharashtra
-`May 2024 – Present`
+**Automotive Domain** &nbsp; DTC Diagnostics · Telematics · Firmware Validation · Fleet Systems · Vehicle Specs
 
-> AI-powered fleet management and predictive maintenance solutions provider
+**Visualization** &nbsp; ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?style=flat-square) ![Plotly](https://img.shields.io/badge/-Plotly-3f4f75?style=flat-square&logo=plotly&logoColor=white)
 
-- 🐍 Developed and automated **90%+** of RNA's Python scripts for large-scale data processing, reporting, and predictive diagnostics
-- 🧩 Owned the complete **DTC metadata pipeline** — enrichment, subsystem mapping, and manufacturer-specific standardization for accurate fault interpretation
-- 📊 Performed model fitting for **air intake diagnostics** and benchmarked algorithm accuracy across battery voltage, fuel level, coolant temperature, fuel trim, and fuel rail pressure
-- 🤝 Collaborated cross-functionally using Python, R, SQL & MLOps frameworks to ship AI-driven solutions, firmware validation, and real-time fleet monitoring
+**Tools** &nbsp; ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel%20(Advanced)-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
----
+<br/>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | What it does |
 |---|---|
 | 🏎️ **SEVC 2022** | Award-winning cost-efficient electric vehicle build |
 | 🛑 **Auto Braking System** | Safety-first automatic braking design for four-wheelers |
 | 😴 **Drowsiness Detection** | Detects driver fatigue and halts the vehicle to prevent accidents |
-| 🎬 **Movie Recommendation System** | Collaborative-filtering engine for personalized movie suggestions |
+| 🎬 **Movie Recommendation System** | Collaborative-filtering engine for personalized suggestions |
 | 🛢️ **AI-Assisted Oil Monitoring** | Predicts engine oil health to trigger maintenance alerts |
+| 🚔 **Mangalashery RP** | Custom FiveM roleplay city — scripts, jobs & live community |
 
----
+<br/>
 
-### 🎓 Education
+## 🎓 Education
 
 | Degree | Institution | Years | CGPA |
 |---|---|---|---|
@@ -92,31 +142,36 @@ I'm currently working on **AI-powered fleet management & predictive maintenance*
 | Diploma in Automobile Engineering | Suguna Polytechnic College, Coimbatore | 2018 – 2021 | 9.1 |
 | SSLC | PSG Sarvajana Higher Secondary School, Coimbatore | 2017 – 2018 | 7.7 |
 
----
+<br/>
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2E63" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF2E63&currStreakLabel=00F7FF" />
 </p>
-
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub handle to activate these live stat cards.
-
----
-
-### 🎮 Off the Clock
-
-Racing sims, strategy games, and the occasional rage-quit — if it's got a leaderboard, I'm probably on it. Somewhere between debugging telemetry data at work and debugging my own gameplay at night, I've accepted that I just like optimizing things — cars, code, or K/D ratios.
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </p>
+
+> Replace `YOUR_GITHUB_USERNAME` everywhere above with your GitHub handle to activate the live cards.
+
+<br/>
+
+## 🎮 Off the Clock
+
+Racing sims, strategy games, and the occasional rage-quit — if it's got a leaderboard, I'm probably on it. When I'm not debugging telemetry at work, I'm running an entire roleplay city at night. Somewhere between the two I accepted I just like **optimizing things** — cars, code, K/D ratios, or a whole GTA economy.
+
+<p align="center">
+  <a href="https://discord.gg/3xEaEZArbP"><img src="https://img.shields.io/badge/🎮%20Come%20roleplay%20in%20Mangalashery%20RP-FF2E63?style=for-the-badge"></a>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,50:7F5AF0,100:00F7FF&height=120&section=footer" width="100%"/>
 
 <p align="center"><i>⭐ From engines to endpoints — always tuning something.</i></p>
