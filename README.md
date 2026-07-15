@@ -24,8 +24,39 @@
 ## 🧭 `> initializing profile...`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=800&color=00FF9C&center=true&vCenter=true&width=780&height=280&lines=%24+whoami;%3E+krishnanunni_j+%40+intangles-lab+%5BRNA%2FAnalytics%5D;;%24+cat+.identity;%3E+ex-automobile+engineer+%E2%86%92+reverse-engineered+into+data;%3E+founder+%26+owner+%40+mangalashery_rp+(fivem+city);;%24+ls+~%2Fstack;%3E+python%2C+r%2C+sql%2C+mlops%2C+lua;;%24+cat+.loves;%3E+fleet_data%2C+fast_cars%2C+clean_code%2C+leaderboards;;%24+run+solve.py+--no-brute-force;%3E+hypothesize()..+model()..+benchmark()..+shipped+%F0%9F%9A%80;%3E+O(n+log+n)%2C+never+O(n%C2%B2)+on+my+watch;;%24+status;%3E+ONLINE+%E2%80%94+caffeine+levels+nominal+%E2%98%95;%3E+access+granted_" alt="terminal boot sequence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF9C&center=true&vCenter=true&width=760&height=60&lines=%24+ssh+krishnanunni%40intangles-lab;%24+sudo+access+--profile;%3E+access+granted_+%E2%9C%94" alt="terminal login" />
 </p>
+
+```python
+>>> from krishnanunni import Me
+>>> me = Me()
+
+>>> me.whoami()
+'Data Analyst @ Intangles Lab · RNA / Analytics'
+
+>>> me.alter_ego()
+'Founder & Owner @ Mangalashery RP (FiveM roleplay city)'
+
+>>> me.origin
+'ex-automobile engineer → reverse-engineered into data'
+
+>>> me.stack
+['Python', 'R', 'SQL', 'MLOps', 'Lua']
+
+>>> me.loves
+['fleet_data', 'fast_cars', 'clean_code', 'leaderboards']
+
+>>> me.solve(problem)          # brute force is for people who don't drift
+... hypothesize() → model() → benchmark()
+... complexity: O(n log n)    # never O(n²) on my watch
+'shipped 🚀'
+
+>>> me.debug(bug)
+'fixed it. probably broke something else. fixing that too.'
+
+>>> me.status
+'ONLINE — caffeine levels nominal ☕'
+```
 
 <table align="center">
 <tr>
