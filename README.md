@@ -1,17 +1,17 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════╗
-║   KRISHNANUNNI J  ·  cyberpunk profile  ·  data // cars // gaming       ║
-║   palette →  cyan #00F7FF · violet #7F5AF0 · pink #FF2E63 · lime #00FF9C ║
+║   KRISHNANUNNI J  ·  red//black profile  ·  data // cars // gaming      ║
+║   palette →  red #FF2E2E · crimson #C10000 · dark #8B0000 · black #0A0A0A ║
 ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F5AF0,100:FF2E63&height=220&section=header&text=KRISHNANUNNI%20J&fontColor=ffffff&fontSize=58&fontAlignY=34&desc=DATA%20ANALYST%20%E2%80%A2%20GEARHEAD%20%E2%80%A2%20GAMER&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:8B0000,100:FF2E2E&height=220&section=header&text=KRISHNANUNNI%20J&fontColor=ffffff&fontSize=58&fontAlignY=34&desc=DATA%20ANALYST%20%E2%80%A2%20GEARHEAD%20%E2%80%A2%20GAMER&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=760&height=130&lines=%F0%9F%8F%8E%EF%B8%8F+Turning+raw+data+into+real+decisions;%F0%9F%90%8D+Python+%7C+R+%7C+SQL+%7C+MLOps+%7C+Lua;%E2%9A%99%EF%B8%8F+Ex-Automobile+Engineer+%E2%86%92+Data+Analyst;%F0%9F%8E%AE+Debugging+code+like+I+debug+engines;%F0%9F%9A%94+Running+an+entire+GTA+V+roleplay+city;%F0%9F%8F%86+Currently+grinding%3A+leaderboards+%26+datasets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2E2E&center=true&vCenter=true&multiline=true&width=760&height=130&lines=%F0%9F%8F%8E%EF%B8%8F+Turning+raw+data+into+real+decisions;%F0%9F%90%8D+Python+%7C+R+%7C+SQL+%7C+MLOps+%7C+Lua;%E2%9A%99%EF%B8%8F+Ex-Automobile+Engineer+%E2%86%92+Data+Analyst;%F0%9F%8E%AE+Debugging+code+like+I+debug+engines;%F0%9F%9A%94+Running+an+entire+GTA+V+roleplay+city;%F0%9F%8F%86+Currently+grinding%3A+leaderboards+%26+datasets" alt="Typing SVG" />
 </p>
 
 <!-- socials -->
@@ -19,17 +19,17 @@
   <a href="https://www.linkedin.com/in/krishnan-unni-j/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kitchudj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://discord.gg/3xEaEZArbP"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://mrpdev.mrprp.in/"><img src="https://img.shields.io/badge/MRP%20Dev%20Portal-FF2E63?style=for-the-badge&logo=rockstargames&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Coimbatore%2C%20India-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=00F7FF">
+  <a href="https://mrpdev.mrprp.in/"><img src="https://img.shields.io/badge/MRP%20Dev%20Portal-FF2E2E?style=for-the-badge&logo=rockstargames&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Coimbatore%2C%20India-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=FF2E2E">
 </p>
 
 <!-- live counters -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kitchudj&style=for-the-badge&color=7F5AF0&label=VISITOR+COUNT" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kitchudj&style=for-the-badge&color=C10000&label=VISITOR+COUNT" alt="Profile views" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/kitchudj?style=for-the-badge&color=00F7FF&labelColor=1a1b27&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/kitchudj?style=for-the-badge&color=FF2E2E&labelColor=0A0A0A&logo=github" alt="Followers" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&labelColor=1a1b27" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-FF2E2E?style=for-the-badge&labelColor=0A0A0A" alt="Status" />
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
@@ -38,7 +38,7 @@
 ## `> boot: initializing profile...`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF9C&center=true&vCenter=true&width=760&height=60&lines=%24+ssh+krishnanunni%40intangles-lab;%24+sudo+access+--profile+--verbose;%3E+decrypting+identity...+%5BOK%5D;%3E+access+granted_+%E2%9C%94" alt="terminal login" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FF2E2E&center=true&vCenter=true&width=760&height=60&lines=%24+ssh+krishnanunni%40intangles-lab;%24+sudo+access+--profile+--verbose;%3E+decrypting+identity...+%5BOK%5D;%3E+access+granted_+%E2%9C%94" alt="terminal login" />
 </p>
 
 <table width="100%">
@@ -160,8 +160,8 @@ the system.</b>
 <td width="30%" align="center">
   <img src="assests/logo.png" width="230" alt="Intangles"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/DIGITAL%20TWIN-00F7FF?style=flat-square&labelColor=1a1b27">
-  <img src="https://img.shields.io/badge/PUNE%2C%20MH-7F5AF0?style=flat-square&labelColor=1a1b27">
+  <img src="https://img.shields.io/badge/DIGITAL%20TWIN-FF2E2E?style=flat-square&labelColor=0A0A0A">
+  <img src="https://img.shields.io/badge/PUNE%2C%20MH-8B0000?style=flat-square&labelColor=0A0A0A">
 </td>
 <td width="70%">
 
@@ -217,8 +217,8 @@ the system.</b>
 > A living, breathing GTA V roleplay community — cops, gangs, businesses, cinematic chases and a whole economy that never sleeps.
 
 <p>
-  <a href="https://mrpdev.mrprp.in/"><img src="https://img.shields.io/badge/🌐%20MRP%20Dev%20Portal-FF2E63?style=for-the-badge&logo=rockstargames&logoColor=white"></a>
-  <a href="https://discord.gg/3xEaEZArbP"><img src="https://img.shields.io/badge/🎮%20Join%20the%20City-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://mrpdev.mrprp.in/"><img src="https://img.shields.io/badge/🌐%20MRP%20Dev%20Portal-FF2E2E?style=for-the-badge&logo=rockstargames&logoColor=white"></a>
+  <a href="https://discord.gg/3xEaEZArbP"><img src="https://img.shields.io/badge/🎮%20Join%20the%20City-8B0000?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 - 🌆 Building custom **FiveM / GTA V** scripts, jobs & economy systems
@@ -287,10 +287,10 @@ Server = {
 ![Lua](https://img.shields.io/badge/Lua%20(FiveM)-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 **🧠 Data Science & ML**
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-7F5AF0?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF2E63?style=flat-square)
-![MLOps](https://img.shields.io/badge/MLOps-00F7FF?style=flat-square&labelColor=1a1b27)
-![Big Data](https://img.shields.io/badge/Big%20Data-00FF9C?style=flat-square&labelColor=1a1b27)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-C10000?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF2E2E?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-8B0000?style=flat-square&labelColor=0A0A0A)
+![Big Data](https://img.shields.io/badge/Big%20Data-FF2E2E?style=flat-square&labelColor=0A0A0A)
 
 Predictive Modeling · Data Cleaning & Validation · Algorithm Accuracy Benchmarking · Big Data Handling · Supervised / Unsupervised Learning · Deep Learning · AI-based Maintenance · MLOps
 
@@ -423,16 +423,16 @@ DTC Diagnostics · Telematics · Firmware Validation · Fleet Systems · Vehicle
 ## `> telemetry: github_stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kitchudj&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2E63" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kitchudj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kitchudj&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF2E2E&icon_color=FF2E2E&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kitchudj&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF2E2E&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kitchudj&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF2E63&currStreakLabel=00F7FF" />
+  <img src="https://streak-stats.demolab.com/?user=kitchudj&theme=dark&hide_border=true&background=0A0A0A&ring=FF2E2E&fire=FF2E2E&currStreakLabel=FF2E2E&sideNums=ffffff&sideLabels=ffffff&dates=888888" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kitchudj&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=FF2E63&point=7F5AF0&hide_border=true&area=true&custom_title=%F0%9F%8F%8E%EF%B8%8F%20Contribution%20Track%20%E2%80%94%20full%20throttle" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kitchudj&bg_color=0A0A0A&color=FF2E2E&line=FF2E2E&point=C10000&title_color=FF2E2E&hide_border=true&area=true&custom_title=%F0%9F%8F%8E%EF%B8%8F%20Contribution%20Track%20%E2%80%94%20full%20throttle" width="95%" />
 </p>
 
 <!-- 🏎️ animated snake racing across the contribution grid (generated by GitHub Action) -->
@@ -474,11 +474,11 @@ I just like <b>optimizing things</b> — cars, code, K/D ratios, or a whole GTA 
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/3xEaEZArbP"><img src="https://img.shields.io/badge/🎮%20Come%20roleplay%20in%20Mangalashery%20RP-FF2E63?style=for-the-badge"></a>
-  <a href="https://mrpdev.mrprp.in/"><img src="https://img.shields.io/badge/🌐%20Explore%20the%20MRP%20Dev%20Portal-7F5AF0?style=for-the-badge&logo=rockstargames&logoColor=white"></a>
+  <a href="https://discord.gg/3xEaEZArbP"><img src="https://img.shields.io/badge/🎮%20Come%20roleplay%20in%20Mangalashery%20RP-FF2E2E?style=for-the-badge"></a>
+  <a href="https://mrpdev.mrprp.in/"><img src="https://img.shields.io/badge/🌐%20Explore%20the%20MRP%20Dev%20Portal-8B0000?style=for-the-badge&logo=rockstargames&logoColor=white"></a>
 </p>
 
 <!-- ============================ FOOTER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,50:7F5AF0,100:00F7FF&height=140&section=footer&text=always%20tuning%20something&fontColor=ffffff&fontSize=24&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E2E,50:8B0000,100:0A0A0A&height=140&section=footer&text=always%20tuning%20something&fontColor=ffffff&fontSize=24&fontAlignY=70" width="100%"/>
 
 <p align="center"><i>⭐ From engines to endpoints — cars, code, or entire cities: always tuning something.</i></p>
