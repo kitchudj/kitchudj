@@ -174,7 +174,7 @@ assert me.caffeine > 0, "restart required ☕"
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kitchudj&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kitchudj&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=FF2E63&point=7F5AF0&hide_border=true&area=true" width="95%" />
 </p>
 
 
